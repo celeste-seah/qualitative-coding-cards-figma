@@ -34,9 +34,11 @@ Use this workflow to code qualitative research arranged in participant sections 
   - Do not create multiple cards that restate the same idea.
   - Prefer the most analytically useful code when Descriptive, Values, Emotion, and In Vivo alternatives substantially overlap.
   - Do not duplicate a code merely because the same idea appears in multiple sources.
-- In Vivo codes must preserve the speaker’s exact wording.
-- Values codes capture values, attitudes, or beliefs.
-- Emotion codes require evidence of an expressed or clearly indicated emotion; do not infer unnecessarily.
+- Codes are one to five words in sentence case. Each lens has its own grammar; do not mix them.
+- In Vivo codes are the speaker’s exact words in double quotes, the phrase that carries their meaning, not filler emphasis. Example: “I can always call it back”.
+- Values codes carry a `V:`, `A:` or `B:` prefix and name the thing itself. `V:` is what matters, as a noun phrase (“V: Ability to call back”). `A:` is a stance towards something (“A: Won’t answer unfamiliar agencies”). `B:` is a proposition the participant holds true (“B: Number alone doesn’t identify the agency”). Never write gerund sentences under Values; gerunds are Process coding.
+- Descriptive codes are topic nouns naming what was shown or discussed (“Agency prefix + number”). Use them on worksheets, artefacts and observer notes, not on interview talk.
+- Emotion codes are a feeling word, or the participant’s own phrase for it in quotes. They require evidence of an expressed or clearly indicated emotion, including in observer notes; do not infer from text tone.
 - Reuse consistent code wording across participants when meanings match.
 - Flag ambiguity rather than over-interpreting.
 
@@ -94,6 +96,7 @@ Before finishing the pilot, verify that:
 - Redundant cards have been removed.
 - Codes remain close to the correct evidence.
 - Metadata is separate from the code text.
+- Every Values code carries its `V:`, `A:` or `B:` prefix and no Values code is a gerund sentence.
 - The code text on every card links to that card's own frame, not to the evidence or another card.
 - Participant colors are consistent.
 - Cards can be individually selected and moved for manual Second Cycle work.
